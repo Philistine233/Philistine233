@@ -1,6 +1,6 @@
 ## Hi there, I'm Xinmeng! 👋
 
-I am a third-year computer science student at the **University of Alberta**.
+I am a fourth-year computer science student at the **University of Alberta**.
 - 🔭 Currently exploring **Web & Android Development, Database Management**, etc
 - 🌱 Currently learning **HTML, CSS, JavaScript, React.js, and UI/UX Design**
 - 👯 Looking to become a **Full-stack Developer**
